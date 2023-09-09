@@ -13,7 +13,7 @@ class FillAreaLayer {
     const color = ['#79b685', '#a7c69d', '#fee090', '#eee']; // '#305f3e',
 
     const title = {
-      text: "PLACES I'V BEEN TO.",
+      text: "Arthur旅游足迹",
       subtext: '环游世界',
       sublink: '',
       left: 'left',
