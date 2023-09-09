@@ -46,4 +46,5 @@ const data = [ // 0: 没去过 1: 去过1次 2: 去过几次 3: 经常去
   { name: '浙江', degree: 1 },
 ];
 
+
 export default data;
