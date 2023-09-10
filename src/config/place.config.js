@@ -15,7 +15,7 @@ const data = [ // 0: 没去过 1: 去过1次 2: 去过几次 3: 经常去
   { name: '池州市', degree: 3 },
   { name: '阳江市', degree: 1 },
   { name: '澳门', degree: 3 },
-  { name: '北京', degree: 3 },
+  { name: '北京', degree: 2 },
   { name: '重庆', degree: 3 },
   { name: '福建', degree: 2 },
   { name: '南平市', degree: 1 },
@@ -68,7 +68,8 @@ const data = [ // 0: 没去过 1: 去过1次 2: 去过几次 3: 经常去
   { name: '西藏', degree: 0 },
   { name: '香港', degree: 3 },
   { name: '新疆', degree: 0 },
-  { name: '云南', degree: 0 },
+  { name: '云南', degree: 1 },
+  { name: '昆明市', degree: 1 },
   { name: '浙江', degree: 1 },
   { name: '杭州市', degree: 1 },
 ];
