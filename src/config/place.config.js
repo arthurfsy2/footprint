@@ -82,7 +82,7 @@ const data = [
   { name: "丽江市", degree: 1 },
   { name: "浙江", degree: 2 },
   { name: "杭州市", degree: 2 },
-  { name: "湖州市", degree: 2 },
+  { name: "湖州市", degree: 1 },
 ];
 
 export default data;
